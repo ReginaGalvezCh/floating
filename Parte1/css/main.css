@@ -1,0 +1,19 @@
+/* Pon tu código css aqui */
+.yellow{
+background-color: yellow;
+}
+.pink{
+background-color: pink;
+}
+.blue{
+background-color: blue;
+}
+div {
+	width: 200px;
+	height: 150px;
+}
+.contenedor {
+	width: 800px;
+	height: 450px;
+	border: 1px solid gray;
+}
